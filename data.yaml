@@ -1,0 +1,20 @@
+add:
+  hint: [1,2,3]
+  hbig: [4,5,6]
+  hfoat:[0.1,0.2,0.3]
+sub:
+  hint:  [2,1,1]
+  hbig: [4,5,6]
+  hfoat:[0.1,0.2,0.3]
+
+mult:
+  hint:  [1,2,3]
+  hbig: [4,5,6]
+  hfoat:[0.1,0.2,0.3]
+  hzero:[1,0,0]
+
+div:
+  hint:  [1,2,3]
+  hbig: [4,5,6]
+  hfoat: [0.1,0.2,0.3]
+  hzero: [1,0,1]
